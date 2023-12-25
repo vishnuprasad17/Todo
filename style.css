@@ -1,0 +1,93 @@
+:root{
+  background: #396afc;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2948ff, #396afc);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2948ff, #396afc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container {
+    width: 40%;
+    margin: 50px auto;
+    background: #333536;
+    border: none;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid white;
+  }
+  
+  .list {
+    margin-top: 30px;
+  }
+  
+  li {
+    background: #ffd89b;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .list-item-list {
+    flex: 1;
+    margin-right: 15px;
+    overflow-wrap: break-word;
+  }
+  
+  .list-item-icons {
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  
+  #complete {
+    color: green;
+  }
+  
+  #edit {
+    color: white;
+  }
+  
+  #delete {
+    color: red;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }  

@@ -1,0 +1,33 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo App using React by Vishnu Prasad",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishnuprasad17"
+  },
+  "keywords": [
+    "todo",
+    "react",
+    "application"
+  ],
+  "author": "Vishnu Prasad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0"
+  }
+}
