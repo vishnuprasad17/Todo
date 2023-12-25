@@ -52,8 +52,8 @@ This is a simple Todo application built using React that allows users to manage 
 
 ## Screenshots
 
-![Todo App - Adding a Todo](./screenshots/Screenshot%20(1).png)
-![Todo App - Completed Todos](./screenshots/Screenshot%20(2).png)
+![Todo App - Adding a Todo](./screenshots/Screenshot (1).png)
+![Todo App - Completed Todos](./screenshots/Screenshot (2).png)
 
 ## Contributing
 
